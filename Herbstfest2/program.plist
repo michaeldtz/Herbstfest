@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<dict>
+			<key>Title</key>
+			<string>Programmpunkte &amp; Tipps</string>
+			<key>Subtitle</key>
+			<string>... Alles Inoffiziell...</string>
+			<key>Group</key>
+			<string>Vorgeschläge auf Facebook</string>
+			<key>Type</key>
+			<integer>1</integer>
+			<key>Subobjects</key>
+			<array>
+				<dict>
+					<key>Title</key>
+					<string>Trachten-Sonntag</string>
+					<key>Subtitle</key>
+					<string>Trachtenpflicht am Sonntag</string>
+					<key>Group</key>
+					<string>Programmpunkte</string>
+					<key>Type</key>
+					<integer>2</integer>
+					<key>Description</key>
+					<string>Wie jedes Jahr herscht auch in diesem Jahr wieder Trachtenpflicht am Sonntag. Werft euch also in eure Dirndl oder Lederhosen und kommt in eurer Tracht auf Fest.</string>
+				</dict>
+				<dict>
+					<key>Title</key>
+					<string>Frühschoppen</string>
+					<key>Subtitle</key>
+					<string>So früh wie es geht...</string>
+					<key>Group</key>
+					<string>Programmpunkte</string>
+					<key>Type</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>Title</key>
+					<string>Kommt auf die Facebook Seite</string>
+					<key>Subtitle</key>
+					<string>... und macht Vorschläge</string>
+					<key>Group</key>
+					<string>Vorschläge einreichen</string>
+					<key>Type</key>
+					<integer>0</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Freitag</string>
+			<key>Subtitle</key>
+			<string>Tag 1, Freitag 11.09.2015</string>
+			<key>Group</key>
+			<string>Festtage</string>
+			<key>Type</key>
+			<integer>1</integer>
+			<key>Subobjects</key>
+			<array>
+				<dict>
+					<key>Title</key>
+					<string>Weinverkostung</string>
+					<key>Subtitle</key>
+					<string>19:00, Donnersberghalle</string>
+					<key>Group</key>
+					<string>Freitag</string>
+					<key>Type</key>
+					<integer>2</integer>
+					<key>Description</key>
+					<string>Am Freitag Abend findet die überregional bedeutsame Nordpfälzer Weinverkostung und Weinprämierung statt. Ab 19 Uhr in der Donnersberghalle. Live dabei: All the Jazz</string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Samstag</string>
+			<key>Subtitle</key>
+			<string>Tag 2, Samstag 12.09.2015</string>
+			<key>Group</key>
+			<string>Festtage</string>
+			<key>Type</key>
+			<integer>1</integer>
+			<key>Subobjects</key>
+			<array>
+				<dict>
+					<key>Title</key>
+					<string>3. Rockie-Man Triathlon</string>
+					<key>Subtitle</key>
+					<string>10:00, Stadion Obermühle</string>
+					<key>Group</key>
+					<string>Samstag</string>
+					<key>Type</key>
+					<integer>1</integer>
+					<key>Subobjects</key>
+					<array>
+						<dict>
+							<key>Title</key>
+							<string>Infortmationen</string>
+							<key>Subtitle</key>
+							<string>zum Rocky-Man Triathlon</string>
+							<key>Group</key>
+							<string>Rocky-Man Triathlon</string>
+							<key>Type</key>
+							<integer>2</integer>
+							<key>Description</key>
+							<string>Am Samstag findet zunächst von 10:00 bis 13:00 der 3. Rockie-Man Triathlon statt. Ein Triathlon für alle Sportbegeisterten Hobby-Triathleten. Um 10:00 fällt der Startschuss im Schwimmbad.</string>
+						</dict>
+						<dict>
+							<key>Title</key>
+							<string>Zur Webseite</string>
+							<key>Subtitle</key>
+							<string>des Rockie-Man Triathlon</string>
+							<key>Group</key>
+							<string>Rockie-Man Triathlon</string>
+							<key>Type</key>
+							<integer>4</integer>
+							<key>URL</key>
+							<string>http://www.triathlon-vt-rockenhausen.de</string>
+						</dict>
+					</array>
+				</dict>
+                <dict>
+					<key>Title</key>
+					<string>34. Symposium des Nordpfälzer Geschichtsvereins</string>
+					<key>Subtitle</key>
+					<string>14:30, Donnersberghalle</string>
+					<key>Group</key>
+					<string>Samstag</string>
+					<key>Type</key>
+					<integer>2</integer>
+					<key>Description</key>
+                    <string>Um 14:30 findet das 34. Symposium des Nordpfälzer Geschichtsvereins in der Donnersberghalle zum Thema "Die ganze Welt im Schulsaal:
+                        Dokumente Nordpfälzer Lehrer vor und nach dem 1. Weltkrieg" statt. Referent ist Prof. Dr. Rainer Schlundt (Mainz).</string>
+				</dict>
+
+                <dict>
+					<key>Title</key>
+					<string>6. Entenrennen</string>
+					<key>Subtitle</key>
+					<string>15:00, Alsenzauen</string>
+					<key>Group</key>
+					<string>Samstag</string>
+					<key>Type</key>
+					<integer>2</integer>
+					<key>Description</key>
+					<string>Am Samstag findet das 6.Entenrennen auf der Alsenz statt. Start ist an den Alsenzauen und das Rennen geht von dort aus bis zur Bezirksamtsstraße.</string>
+				</dict>
+                <dict>
+					<key>Title</key>
+					<string>Wein und Genuss</string>
+					<key>Subtitle</key>
+					<string>ab 18:00, Schlosspark</string>
+					<key>Group</key>
+					<string>Samstag</string>
+					<key>Type</key>
+					<integer>2</integer>
+					<key>Description</key>
+                    <string>Wein und Genuss im Schlosspark. Ab 20:00 mit musikalischer Begleitung von "Happy Swing Quartett" mit Sängerin Katrin"</string>
+				</dict>
+				<dict>
+					<key>Title</key>
+					<string>Musik im Festzelt</string>
+					<key>Subtitle</key>
+					<string>20:00, Festzelt</string>
+					<key>Group</key>
+					<string>Samstag</string>
+					<key>Type</key>
+					<integer>2</integer>
+					<key>Description</key>
+					<string>Am Samstag Abend ab 20 Uhr gibt es wie jedes Jahr Musik und gute Laune im Festzelt in der Brühlgasse mit der Partyband „getup“ und erlesenen Weinen der Nordpfälzer Winzer an den Weinständen (Eintritt: 10,- €). </string>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Sonntag</string>
+			<key>Subtitle</key>
+			<string>Tag 3, Sonntag 13.09.2015</string>
+			<key>Group</key>
+			<string>Festtage</string>
+			<key>Type</key>
+			<integer>1</integer>
+			<key>Subobjects</key>
+			<array>
+				<dict>
+					<key>Title</key>
+					<string>Volksfest und Mittagstisch</string>
+					<key>Subtitle</key>
+					<string>Ab 11:00, Festplatz</string>
+					<key>Group</key>
+					<string>Sonntag</string>
+					<key>Type</key>
+					<integer>0</integer>
+				</dict>
+                <dict>
+                    <key>Title</key>
+                    <string>Nordpfälzer Bauernmarkt</string>
+                    <key>Subtitle</key>
+                    <string>ab 11 Uhr</string>
+                    <key>Group</key>
+                    <string>Sonntag</string>
+                    <key>Type</key>
+                    <integer>0</integer>
+                </dict>
+				<dict>
+					<key>Title</key>
+					<string>Verkaufsoffener Sonntag</string>
+					<key>Subtitle</key>
+					<string>Von 13:00 bis 18:00, Stadtkern</string>
+					<key>Group</key>
+					<string>Sonntag</string>
+					<key>Type</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>Title</key>
+					<string>Festumzug durch den Stadtkern</string>
+					<key>Subtitle</key>
+					<string>14:00, Stadtkern</string>
+					<key>Group</key>
+					<string>Sonntag</string>
+					<key>Type</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>Title</key>
+					<string>Showtanz- Ballettgruppen</string>
+					<key>Subtitle</key>
+					<string>15:30, Schlosspark</string>
+					<key>Group</key>
+					<string>Sonntag</string>
+					<key>Type</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>Title</key>
+					<string>Weinfrohe Stunden</string>
+					<key>Subtitle</key>
+					<string>15:30 bis 21:30, Festzelt</string>
+					<key>Group</key>
+					<string>Sonntag</string>
+					<key>Type</key>
+					<integer>0</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Montag</string>
+			<key>Subtitle</key>
+			<string>Tag 4, Montag 14.09.2015</string>
+			<key>Group</key>
+			<string>Festtage</string>
+			<key>Type</key>
+			<integer>1</integer>
+			<key>Subobjects</key>
+			<array>
+				<dict>
+					<key>Title</key>
+					<string>Mittagstisch im Festzelt</string>
+					<key>Subtitle</key>
+					<string>12:00, Festzelt</string>
+					<key>Group</key>
+					<string>Montag</string>
+					<key>Type</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>Title</key>
+					<string>Wein und Genuss im Schlosspark</string>
+					<key>Subtitle</key>
+					<string>12:00, Schlosspark</string>
+					<key>Group</key>
+					<string>Montag</string>
+					<key>Type</key>
+					<integer>0</integer>
+				</dict>
+				<dict>
+					<key>Title</key>
+					<string>Festausklang im Schlosspark und Festzelt</string>
+					<key>Subtitle</key>
+					<string>21:00, Schlosspark</string>
+					<key>Group</key>
+					<string>Montag</string>
+					<key>Type</key>
+					<integer>0</integer>
+				</dict>
+                <dict>
+					<key>Title</key>
+					<string>Großes Höhenfeuerwerk</string>
+					<key>Subtitle</key>
+					<string>21:00</string>
+					<key>Group</key>
+					<string>Montag</string>
+					<key>Type</key>
+					<integer>0</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</array>
+</plist>

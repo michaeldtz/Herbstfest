@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<dict>
+			<key>Title</key>
+			<string>Weinverkostung</string>
+			<key>Subtitle</key>
+			<string>19 Uhr, Donnersberghalle</string>
+			<key>Group</key>
+			<string>Freitag</string>
+			<key>Type</key>
+			<integer>2</integer>
+			<key>Description</key>
+			<string>Am Freitag Abend findet die überregional bedeutsamen Nordpfälzer Weinverkostung und Weinprämierung statt. Ab 19 Uhr in der Donnersberghalle. Karten sind ab dem 30. August bei der Verbandsgemeinde Rockenhausen erhältlich.</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>2. Entenrennen</string>
+			<key>Subtitle</key>
+			<string>15 Uhr, Alsenzauen</string>
+			<key>Group</key>
+			<string>Samstag</string>
+			<key>Type</key>
+			<integer>2</integer>
+			<key>Description</key>
+			<string>Am Samstag findet das 2.Entenrennen auf der Alsenz statt. Nach dem Erfolg aus dem Vorjahr findet dieses Rennen auf dem kleinen Fluss Alsenz auch dieses Jahr wieder statt. Start ist an den Alsenzauen und das Rennen geht von dort aus bis zur Bezirksamtsstraße .</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Musik im Festzelt</string>
+			<key>Subtitle</key>
+			<string>20 Uhr, Festzelt</string>
+			<key>Group</key>
+			<string>Samstag</string>
+			<key>Type</key>
+			<integer>2</integer>
+			<key>Description</key>
+			<string>Am Samstag Abend ab 20 Uhr gibt es wie jedes Jahr Musik und gute Laune im Festzelt in der Brühlgasse mit den „Habachtalern“ und erlesenen Weinen der Nordpfälzer Winzer an den Weinständen (Eintritt: 8,- €).          </string>
+		</dict>
+        
+        
+        
+        <dict>
+			<key>Title</key>
+			<string>Volksfest und Mittagstisch</string>
+			<key>Subtitle</key>
+			<string>Ab 12 Uhr, Festplatz</string>
+			<key>Group</key>
+			<string>Sonntag</string>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>  
+        <dict>
+			<key>Title</key>
+			<string>Nordpfälzer Bauernmarkt</string>
+			<key>Subtitle</key>
+			<string>Ab 12 Uhr, Brühlgasse</string>
+			<key>Group</key>
+			<string>Sonntag</string>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>      
+        
+        <dict>
+			<key>Title</key>
+			<string>Verkaufsoffener Sonntag</string>
+			<key>Subtitle</key>
+			<string>Von 13 bis 18 Uhr, Stadtkern</string>
+			<key>Group</key>
+			<string>Sonntag</string>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+        <dict>
+			<key>Title</key>
+			<string>Festumzug durch die Stadt</string>
+			<key>Subtitle</key>
+			<string>14 Uhr, Stadtkern</string>
+			<key>Group</key>
+			<string>Sonntag</string>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+        <dict>
+			<key>Title</key>
+			<string>Showtanzgruppen</string>
+			<key>Subtitle</key>
+			<string>15:30 Uhr, Schlosspark</string>
+			<key>Group</key>
+			<string>Sonntag</string>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+        <dict>
+			<key>Title</key>
+			<string>Rentnerband auf der Bühne</string>
+			<key>Subtitle</key>
+			<string>15:30 bis 18:30 Uhr, Schlosspark</string>
+			<key>Group</key>
+			<string>Sonntag</string>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>   
+        <dict>
+			<key>Title</key>
+			<string>Weinfrohe Stunden</string>
+			<key>Subtitle</key>
+			<string>15:30 bis 21:30 Uhr, Festzelt</string>
+			<key>Group</key>
+			<string>Sonntag</string>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>   
+        
+        
+        <dict>
+			<key>Title</key>
+			<string>Volksfest und Mittagstisch</string>
+			<key>Subtitle</key>
+			<string>Ab 12 Uhr, Festzelt</string>
+			<key>Group</key>
+			<string>Montag</string>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>   
+        <dict>
+			<key>Title</key>
+			<string>Stimmungsmusik</string>
+			<key>Subtitle</key>
+			<string>15 bis 19:30 Uhr, Festzelt</string>
+			<key>Group</key>
+			<string>Montag</string>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+        <dict>
+			<key>Title</key>
+			<string>Lampionumzug</string>
+			<key>Subtitle</key>
+			<string>20 Uhr, Ab dem Schulzentrum</string>
+			<key>Group</key>
+			<string>Montag</string>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict> 
+        <dict>
+			<key>Title</key>
+			<string>Großes Höhenfeuerwerk</string>
+			<key>Subtitle</key>
+			<string>21 Uhr, Festplatz</string>
+			<key>Group</key>
+			<string>Montag</string>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>   
+        
+    
+        
+		<dict>
+			<key>Title</key>
+			<string>Weindorf im Schlosspark</string>
+			<key>Subtitle</key>
+			<string>Samstag, Sonntag &amp; Montag</string>
+			<key>Group</key>
+			<string>Sonstiges</string>
+			<key>Type</key>
+			<integer>0</integer>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Plan Festhalle</string>
+			<key>Subtitle</key>
+			<string>Wo findet man was?</string>
+			<key>Group</key>
+			<string>Sonstiges</string>
+			<key>Type</key>
+			<integer>3</integer>
+			<key>Filename</key>
+			<string>hallenplan.png</string>
+		</dict>
+	</array>
+</array>
+</plist>
